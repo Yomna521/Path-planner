@@ -1,0 +1,3 @@
+/mnt/c/users/yumna/desktop/ai-project/Path Planner/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/yumna/desktop/ai-project/Path Planner/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/yumna/desktop/ai-project/Path Planner/build/CMakeFiles/path_planning.dir

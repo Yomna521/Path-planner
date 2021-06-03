@@ -1,0 +1,62 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   27.21.14.5763
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+Platform assembly: C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+Platform assembly: C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.598600 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 383c -> priority: 1 
+  Thread -> id: 2eb8 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.099900 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 525.
+Total: 0.455400 ms (FindLiveObjects: 0.064300 ms CreateObjectMapping: 0.036400 ms MarkObjects: 0.320900 ms  DeleteObjects: 0.021600 ms)
+
+in menu script 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.379100 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 9284.
+Total: 6.252000 ms (FindLiveObjects: 1.076500 ms CreateObjectMapping: 0.445000 ms MarkObjects: 2.684600 ms  DeleteObjects: 2.044500 ms)
+
+Platform assembly: C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\yumna\Desktop\AI-project\term3_sim_windows\term3_sim_Data\Managed\System.Xml.dll (this message is harmless)
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
