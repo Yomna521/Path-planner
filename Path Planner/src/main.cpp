@@ -158,14 +158,13 @@ void path_planner(vector<vector<double>> lane_cars, double car_s, int prev_size)
     newLaneCost = leftLane;
   }
   
+  //if lane is free and speed is less than max limit --> accelerate speed
   if(newLaneCost == 0 && refVel < maxVel){
     refVel += acceleration; 
   } else if(refVel > minVel){
     refVel -= deceleration;
   }  
 }
-
-
 
 int main() {
   uWS::Hub h;
